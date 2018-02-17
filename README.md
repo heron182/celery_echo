@@ -1,0 +1,1 @@
+A celery project demonstrating how to use pytest.celery fixtures 
